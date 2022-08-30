@@ -7,6 +7,7 @@ August 30, 2022
 Explore US Bikeshare Data
 
 ### Description
+Data give the following information:
 Popular times of travel
 Popular stations and trip
 Trip duration
